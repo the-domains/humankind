@@ -1,0 +1,14 @@
+layout_spectrum: 0.3513702417258173
+typography_spectrum: 0.20766606787219644
+color:
+  brandStrength: 0.1498597755562514
+  lightness: 0.9710404088255018
+  saturation: 0.8711166465654969
+  rhythmicContrast: 0.3625773082021624
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: HumanKind
